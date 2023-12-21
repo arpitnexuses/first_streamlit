@@ -11,11 +11,3 @@ trio-websocket==0.11.1
 typing_extensions==4.8.0
 tzdata==2023.3
 tzlocal==5.2
-urllib3==2.0.7
-validators==0.22.0
-weasyprint==60.2
-webencodings==0.5.1
-Werkzeug==3.0.1
-wsproto==1.2.0
-zipp==3.17.0
-zopfli==0.2.3
