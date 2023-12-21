@@ -2,6 +2,9 @@ import streamlit as st
 import boto3
 from jinja2 import Environment, FileSystemLoader
 import uuid
+import os
+from dotenv import load_dotenv
+
 
 load_dotenv()
 
